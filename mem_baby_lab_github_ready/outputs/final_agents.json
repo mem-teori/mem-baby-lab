@@ -1,0 +1,68 @@
+[
+  {
+    "agent_id": "pair_1_expansion_vs_stability_child",
+    "lineage": "pair_1_expansion_vs_stability",
+    "collapsed": false,
+    "collapse_type": null,
+    "survival_profile": "adaptive",
+    "energy": 0.0,
+    "plasticity": 0.3635,
+    "state": {
+      "valence": 0.5971,
+      "arousal": 0.7264,
+      "coherence": 0.871,
+      "approach": 0.8908,
+      "stability": 0.4406
+    },
+    "traits": {
+      "coherence_need": 0.9227487308327752,
+      "exploration_bias": 0.8075074911496433,
+      "learning_rate": 0.6149820759685766,
+      "sensitivity": 0.5042457551494182
+    }
+  },
+  {
+    "agent_id": "pair_2_sensitive_vs_robust_child",
+    "lineage": "pair_2_sensitive_vs_robust",
+    "collapsed": true,
+    "collapse_type": "marginal",
+    "survival_profile": "adaptive",
+    "energy": 0.0,
+    "plasticity": 0.353,
+    "state": {
+      "valence": 0.7385,
+      "arousal": 0.0,
+      "coherence": 0.244,
+      "approach": 0.1263,
+      "stability": 0.1848
+    },
+    "traits": {
+      "coherence_need": 0.5010398015484897,
+      "exploration_bias": 0.4717023031981163,
+      "learning_rate": 0.4848767199698851,
+      "sensitivity": 0.5138551272180203
+    }
+  },
+  {
+    "agent_id": "pair_3_fast_vs_slow_learning_child",
+    "lineage": "pair_3_fast_vs_slow_learning",
+    "collapsed": false,
+    "collapse_type": null,
+    "survival_profile": "rigid",
+    "energy": 0.7638,
+    "plasticity": 0.145,
+    "state": {
+      "valence": 0.6795,
+      "arousal": 0.3469,
+      "coherence": 1.0,
+      "approach": 0.4243,
+      "stability": 0.7523
+    },
+    "traits": {
+      "coherence_need": 0.7257964946327521,
+      "exploration_bias": 0.45056550035333653,
+      "learning_rate": 0.23270474628047916,
+      "sensitivity": 0.49787310404972435
+    }
+  }
+]

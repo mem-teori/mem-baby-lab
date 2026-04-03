@@ -1,0 +1,21 @@
+{
+  "total_agents": 3,
+  "living_agents": 2,
+  "collapsed_agents": 1,
+  "final_mean_stability": 0.4592,
+  "final_mean_coherence": 0.705,
+  "final_mean_valence": 0.6717,
+  "final_mean_energy": 0.2546,
+  "survivors": [
+    "pair_1_expansion_vs_stability_child",
+    "pair_3_fast_vs_slow_learning_child"
+  ],
+  "survival_profiles": {
+    "pair_1_expansion_vs_stability": "adaptive",
+    "pair_2_sensitive_vs_robust": "adaptive",
+    "pair_3_fast_vs_slow_learning": "rigid"
+  },
+  "collapse_types": {
+    "pair_2_sensitive_vs_robust": "marginal"
+  }
+}
