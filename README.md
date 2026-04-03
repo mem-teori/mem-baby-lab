@@ -1,3 +1,6 @@
+This repository is shared under a custom research license.
+See LICENSE for details.
+
 # MEM Baby Lab
 
 This project explores how systems learn when they do not fully understand what they are observing.
