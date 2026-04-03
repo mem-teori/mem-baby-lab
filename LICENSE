@@ -1,0 +1,21 @@
+ETOS / M.E.M. Research License
+
+Copyright (c) 2026 Maria Edlenborg Mortensen
+
+This repository is provided for research, demonstration, and educational purposes.
+
+You are permitted to:
+- View and study the code
+- Run simulations for non-commercial purposes
+- Use the concepts for personal or academic exploration
+
+You are NOT permitted to:
+- Use this code or its concepts in commercial products
+- Deploy this system in production environments
+- Create derivative systems based on the core decision logic
+- Reproduce or implement the underlying decision architecture (including M.E.M., IDK, CDP) without explicit permission
+
+The underlying principles and decision architecture are proprietary.
+
+For licensing or collaboration:
+Contact: [din mail]
